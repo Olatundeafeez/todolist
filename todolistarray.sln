@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todolistarray", "todolistarray\todolistarray.csproj", "{9162502A-DD34-42BD-947C-EE1DA392139C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9162502A-DD34-42BD-947C-EE1DA392139C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9162502A-DD34-42BD-947C-EE1DA392139C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9162502A-DD34-42BD-947C-EE1DA392139C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9162502A-DD34-42BD-947C-EE1DA392139C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9757B921-CBD2-4ABF-8D31-EFABC398F6DE}
+	EndGlobalSection
+EndGlobal
